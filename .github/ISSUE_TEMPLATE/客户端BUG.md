@@ -1,6 +1,6 @@
 ---
 name: 客户端BUG
-about: 客户端BUG在此提交。
+about: 客户端的BUG在此提交。
 title: "[Client-Bug]"
 labels: ''
 assignees: ''
