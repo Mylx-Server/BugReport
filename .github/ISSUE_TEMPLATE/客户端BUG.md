@@ -31,12 +31,13 @@ Make sure to add **all the information needed to understand the bug** so that so
 ### 日志
 <!--
 在下方附上 倾世之城-客户端 崩溃或报错后日志文件的内容
+   
 -->
 <details>
   <summary>crash.log</summary>
 
 ```yaml
-…… <!--在此次附上你的日志 -->
+在此处附上你的日志
 ```
 
 </details>
