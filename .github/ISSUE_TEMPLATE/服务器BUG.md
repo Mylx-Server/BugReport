@@ -1,5 +1,5 @@
 ---
-name: 服务端BUG反馈
+name: 服务端BUG
 about: 服务器的BUG在此提交。
 title: "[Server-Bug]"
 labels: ''
