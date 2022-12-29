@@ -6,11 +6,11 @@ labels: ''
 assignees: ''
 
 ---
-<!-- 感谢你向 倾世之城 提交 issue！ -->
+<!-- 感谢你向 Mylx Server 提交 issue！ -->
 <!-- 在 [ ] 内添加x使 [ ] 变成 [x] 来勾选复选框 您可以使用上方的Preview来预览显示效果-->
 ## 我已经确认： <!--在提交之前，请确认：-->
 - [ ] 我已经在 [Issue Tracker](……/) 中找过我要提出的问题
-- [ ] 我已经仔细看过 [Documentation](https://github.com/0xc0000142/QSZC/wiki) 并无法自行解决问题
+- [ ] 我已经仔细看过 [Documentation](https://github.com/Mylx-Server/BugReport/wiki) 并无法自行解决问题
 <!-- 请注意，如果你并没有遵照这个 issue template 填写内容，我们将直接关闭这个 issue。-->
 
 ------------------------------------------------------------------
