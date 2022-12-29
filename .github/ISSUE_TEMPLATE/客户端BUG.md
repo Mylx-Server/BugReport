@@ -2,8 +2,8 @@
 name: 客户端BUG
 about: 客户端的BUG在此提交。
 title: "[Client-Bug]"
-labels: ''
-assignees: ''
+labels: 'bug,客户端'
+assignees: '0xc0000142'
 
 ---
 <!-- 感谢你向 Mylx Server 提交 issue！ -->
