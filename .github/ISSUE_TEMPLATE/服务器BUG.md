@@ -8,12 +8,13 @@ assignees: '0xc0000142'
 ---
 <!-- 感谢你向 Mylx Server 提交 issue！ -->
 <!-- 在 [ ] 内添加x使 [ ] 变成 [x] 来勾选复选框 您可以使用上方的Preview来预览显示效果-->
-## 我已经确认： <!--在提交之前，请确认：-->
+## 我已经确认： <!--在提交之前，请确认，请按实际情况填写，避免造成错误诊断：-->
 - [ ] 我已经在 [Issue Tracker](……/) 中找过我要提出的问题
 - [ ] 我已经仔细看过 [常见问题解答](https://github.com/Mylx-Server/BugReport/issues/3) 并无法自行解决问题
 - [ ] 我正在使用 Minecraft Java Edition <!--基岩版用户不勾选即可-->
+- [ ] 我已经确认这个问题在主线和备线都可以被稳定复现
 <!-- 请注意，如果你并没有遵照这个 issue template 填写内容，我们将直接关闭这个 issue。-->
-
+<!-- 类似这样的是注释，这里的任何内容都不会被显示。请勿在此区域内填写任何内容 -->
 ------------------------------------------------------------------
 
 <!-- 
@@ -23,6 +24,7 @@ Make sure to add **all the information needed to understand the bug** so that so
 
 
 ### 环境 Environment
+
 
 * 我在那个服务器 <!-- 例如：Mylx;MiniGame -->
 ……
