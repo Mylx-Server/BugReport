@@ -9,9 +9,10 @@ assignees: '0xc0000142'
 <!-- 感谢你向 Mylx Server 提交 issue！ -->
 <!-- 在 [ ] 内添加x使 [ ] 变成 [x] 来勾选复选框 您可以使用上方的Preview来预览显示效果-->
 ## 我已经确认： <!--在提交之前，请确认：-->
+- [ ] 我已经确定我正在使用官方启动器
 - [ ] 我已经确定客户端中没有我想要的功能/mod
+- [ ] 我正在使用 Minecraft Java Edition <!--基岩版用户不勾选即可-->
 - [ ] 我已经在 [Issue Tracker](……/) 中找过我要提出的问题
-- [ ] 我已经使用 dev 分支版本测试过，问题依旧存在
 - [ ] 我已经仔细看过 [Documentation](https://github.com/Mylx-Server/BugReport/wiki) 并无法自行解决问题
 - [ ] 这是 官方客户端 的问题，并非我所使用的任何修改版本（包括增删mod，修改配置文件）的特定问题
 <!-- 请注意，如果你并没有遵照这个 issue template 填写内容，我们将直接关闭这个 issue。-->
@@ -25,13 +26,14 @@ Make sure to add **all the information needed to understand the bug** so that so
 
 ### 日志
 <!--
-在下方附上 倾世之城-客户端 崩溃或报错后日志文件的内容
-   
+在下方附上 客户端 崩溃或报错后日志文件的内容
+   .minecraft\versions\1.19.2-Mylx\logs\latest.log
+   .minecraft\versions\1.19.2-Mylx\crash-reports
 -->
 <details>
   <summary>crash.log</summary>
 
-```yaml
+```
 在此处附上你的日志
 ```
 
@@ -48,9 +50,9 @@ Make sure to add **all the information needed to understand the bug** so that so
 ……
 * iptables，如果适用 
 ……
-* 你是否能正常连接到 倾世之城 服务器 <!-- yes or no -->
+* 你是否能正常连接到 Mylx Server 服务器 <!-- yes or no -->
 ……
-* ISP 有没有进行 DNS 污染 
+* ISP 有没有进行 DNS 污染 <!--不懂是什么意思可以不写-->
 ……
 * 其他 
 ……
